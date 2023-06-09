@@ -1,7 +1,7 @@
 #To Calculate Simple Interest for Bank Customer for Fixed Deposit
 str(['Female','SeniorCitizen','Male','NonSeniorCitizen'])
-cg=str(input('customer gender='))
-cc=str(input('customer citizenship='))
+cg=str(input('Enter customer gender as Female or Male ='))
+cc=str(input('Enter customer citizenship as SeniorCitizen or NonSeniorCitizen ='))
 p=int(input('Enter Initial Principal='))
 t=int(input('Enter the Time period of Deposit='))
 r=float()
